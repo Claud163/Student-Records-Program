@@ -1,0 +1,3 @@
+Name: Doe, John	 	 --- ID #: 18325	 [Student Record - GPA: 3.70, Credits: 60]
+Name: Smith, Jane	 --- ID #: 38549	 [Student Record - GPA: 3.80, Credits: 40]
+
